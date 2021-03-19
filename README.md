@@ -11,3 +11,4 @@ This project was created for a mobile game.
 ![boardgenerator preview](/preview/preview-3.gif)
 ![boardgenerator preview](/preview/preview-4.gif)
 ![boardgenerator preview](/preview/preview-5.gif)
+![boardgenerator preview](/preview/preview-6.png)
